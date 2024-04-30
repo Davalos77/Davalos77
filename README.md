@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDb and other back-end technologies**
 
-- 👨‍💻 All of my projects are available at [https://davalos.vercel.app/](https://davalos.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://davalos7.dev/](https://davalos7.dev/) 
 
 - 💬 Ask me about **React Ecosystem**
 
