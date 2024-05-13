@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dennis Avalos</h1>
 <h3 align="center">A passionate full-stack developer from Houston, TX</h3>
 
-- 🔭 I’m currently working on [E-Commerce website](Coming Soon!)
+- 🔭 I’m currently working on [E-Commerce website](Coming Soon)
 
 - 🌱 I’m currently learning **MongoDb and working on my AWS certification**
 
