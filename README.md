@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [E-Commerce website](Coming Soon!)
 
-- 🌱 I’m currently learning **MongoDb and other back-end technologies**
+- 🌱 I’m currently learning **MongoDb and working on my AWS certification**
 
-- 👨‍💻 All of my projects are available at [https://davalos7.dev/](https://davalos7.dev/) 
+- 👨‍💻 All of my projects are available at [https://davalos7.framer.website/](https://davalos7.framer.website/)
 
 - 💬 Ask me about **React Ecosystem**
 
 - 📫 How to reach me **dennisavalos95@gmail.com**
 
-- ⚡ Fun fact **I like watching F1!**
+- ⚡ Fun fact **I am an avid watcher of F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
